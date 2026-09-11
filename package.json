@@ -1,0 +1,16 @@
+{
+  "name": "mongoosedatamodeling",
+  "version": "1.0.0",
+  "description": "This is my First MERN Project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Rohan Kurwade",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
